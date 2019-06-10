@@ -10,6 +10,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 
 import com.demo.model.User;
 import com.demo.repository.UserRepository;
+import com.demo.repository.UserRepository;
 
 @SpringBootApplication
 @EntityScan("com.demo.model")
